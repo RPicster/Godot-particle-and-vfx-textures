@@ -1,7 +1,7 @@
 extends ColorRect
 
 func _on_tutorial_pressed():
-	OS.shell_open("http://godotengine.org")
+	OS.shell_open("https://www.youtube.com/watch?v=DPDPI5zDeoM")
 
 
 func _on_discord_pressed():
